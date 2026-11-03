@@ -1,0 +1,7 @@
+ops/runs/*
+ops/private/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example

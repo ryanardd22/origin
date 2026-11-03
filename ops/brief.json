@@ -1,0 +1,26 @@
+{
+  "brand": "OriginSYS",
+  "stage": "Belum ada bukti pelanggan berbayar atau hasil terverifikasi dalam konteks ini",
+  "primary_hypothesis": "Concierge pengadaan coffee break kantor: bantu pembeli membandingkan penawaran penyedia lokal yang telah diverifikasi",
+  "alternative_hypothesis": "Pilot satu campaign untuk kafe yang sudah punya pelanggan dan tim operasional",
+  "pilot_price_idr": 990000,
+  "pilot_price_status": "Usulan, belum tervalidasi",
+  "monthly_price_idr": [
+    1490000,
+    1990000
+  ],
+  "monthly_price_status": "Usulan, belum tervalidasi",
+  "city": "Surabaya",
+  "supplier_commission_status": "Belum disepakati; jangan ditawarkan sebagai kesepakatan aktif",
+  "whatsapp": "6285177460854",
+  "instagram": "chatorigins.ai",
+  "language": "Bahasa Indonesia natural; gunakan campaign",
+  "dispatch_mode": "draft_only",
+  "evidence_policy": "Pisahkan fakta bersumber, informasi pemilik, asumsi, dan belum diketahui",
+  "city_source": "Diberikan pemilik pada percakapan ini",
+  "existing_supplier_relationships": "Belum ada, menurut pemilik",
+  "service_radius": null,
+  "minimum_owner_hourly_contribution_idr": null,
+  "recommended_next_experiment": "Meja penawaran catering B2B Surabaya untuk bisnis yang sudah menerima inquiry",
+  "recommendation_status": "Rekomendasi agent dari kondisi pemilik; belum ada bukti permintaan atau kesediaan membayar. Bukan perubahan produk/harga publik."
+}

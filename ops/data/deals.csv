@@ -1,0 +1,1 @@
+deal_id,buyer_lead_id,supplier_id,stage,event_date,pax,buyer_total_idr,supplier_total_idr,delivery_idr,other_cost_idr,refund_reserve_idr,origin_fee_idr,fee_payer,terms_confirmed,payment_confirmed,fulfillment_confirmed,next_action,supplier_quote_url,actual_delivery_at,delay_minutes,refund_actual_idr,repeat_of_deal_id,owner_hours,evidence_reference

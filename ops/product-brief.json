@@ -1,0 +1,15 @@
+{
+  "goal": "Cari produk yang layak diuji untuk dijual, lalu berikan pilihan singkat kepada pemilik",
+  "location": "Surabaya, Indonesia",
+  "total_budget_idr": 1000000,
+  "starting_category": "FMCG",
+  "business_model_priority": ["reseller produk jadi", "distributor kecil", "preorder dengan pemasok terkonfirmasi"],
+  "channels": ["TikTok", "Instagram Reels", "YouTube Shorts", "WhatsApp atau marketplace yang tersedia"],
+  "preferences": ["potensi pembelian ulang", "stok awal kecil", "mudah didemonstrasikan secara jujur", "pemenuhan sederhana"],
+  "research_scope": "Indonesia; China boleh menjadi sumber hipotesis, bukan bukti permintaan Indonesia",
+  "white_label_status": "Pertimbangkan setelah kelayakan produk, hak, biaya dan minimum order terverifikasi",
+  "spending_authorized": false,
+  "contacting_suppliers_authorized": false,
+  "output_language": "Bahasa Indonesia konkret dan ringkas",
+  "notes": "Jangan mengarahkan ulang pemilik ke jasa campaign atau ide bisnis di luar produk jualan kecuali diminta. Harga yang belum diperiksa harus null/belum diketahui."
+}
