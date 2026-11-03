@@ -28,3 +28,15 @@ python3 ops/agent.py prepare product-hunter --task "Cari tiga kandidat FMCG sesu
 ```
 
 Mode prepare hanya menyiapkan prompt. Mode run memerlukan Codex CLI, autentikasi, akses model dan kuota; sebelumnya akses endpoint model pada environment ini ditolak proxy 403. Jalur chat digunakan untuk menjalankan agent sekarang.
+
+## Video Shotcraft
+
+Skill `video-shotcraft` dipasang dari [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft), commit upstream `1266a3ec4831289c4d893d42dd5102723658039a`. Sumber dan lisensi upstream dipertahankan di `.agents/skills/video-shotcraft/`.
+
+Contoh pemakaian di Codex:
+
+> Gunakan $video-shotcraft untuk menyiapkan video produk dari aset saya. Baca skill dan panduan instalasi Codex terlebih dahulu.
+
+Skill berfokus pada animasi Remotion berbasis kode, screenshot dan aset. Tidak memerlukan akun Claude untuk rendering lokal. Akses browser/generasi aset/audio atau publikasi luar mengikuti kemampuan dan konfigurasi sesi.
+
+Validasi instalasi: 23 tes helper bawaan lulus; satu frame PNG template dan MP4 H.264 dua detik dengan audio AAC berhasil dirender. Konfigurasi Linux yang diuji memakai Chromium sistem, `--chrome-mode=chrome-for-testing`, dan `--concurrency=1`. Panduan: `.agents/skills/video-shotcraft/CODEX-INSTALL.md`. Ini uji template upstream, bukan video bisnis OriginSYS atau pengujian seluruh fitur/library shot.

@@ -11,3 +11,7 @@ Agent riset berjalan saat dipanggil di Codex, bukan otomatis pada server GitHub.
 Paket `origin-growth` tersedia untuk tugas pemasaran/operasional bila diminta. Jangan mengubah strategi, harga publik, atau website otomatis dari rekomendasi riset. Gunakan checkout yang ada; tidak perlu membuat worktree kecuali diminta.
 
 Tes runner: `python3 -m unittest discover -s ops -p test_agent.py -v`. Python 3 standar cukup untuk prepare; mode CLI run memerlukan Codex CLI terautentikasi serta akses model. Jalur utama adalah chat Codex, karena endpoint CLI pada instance sebelumnya ditolak proxy 403.
+
+## Video Shotcraft
+
+Untuk permintaan video produk, motion graphics, shot card atau sound design, baca `.agents/skills/video-shotcraft/SKILL.md`. Paket upstream, template dan referensi tersedia lokal. Baca juga `CODEX-INSTALL.md` di folder skill untuk konfigurasi Chromium Linux dan batas integrasi. Instalasi tidak otomatis memberi akses layanan generasi video, Freesound atau publikasi sosial.

@@ -5,3 +5,10 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# Video Shotcraft runtime dependencies and generated files
+node_modules/
+.agents/skills/video-shotcraft/**/out/
+.agents/skills/video-shotcraft/**/dist/
+.agents/skills/video-shotcraft/**/.cache/
+.agents/skills/video-shotcraft/**/__pycache__/
