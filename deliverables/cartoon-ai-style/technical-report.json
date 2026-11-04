@@ -1,0 +1,32 @@
+{
+  "scope": "metadata and full decode; auditory evaluation not performed",
+  "media": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 1280,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "nb_frames": "360",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "nb_frames": "564"
+      }
+    ],
+    "format": {
+      "duration": "12.000000"
+    }
+  },
+  "decode": "passed",
+  "video_type": "12-second vector cartoon style prototype, not full narration video"
+}
