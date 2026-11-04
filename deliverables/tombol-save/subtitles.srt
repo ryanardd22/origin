@@ -1,0 +1,195 @@
+1
+00:00:00,567 --> 00:00:01,333
+Bayangin setiap kali
+
+2
+00:00:01,333 --> 00:00:02,300
+orang pintar meninggal...
+
+3
+00:00:02,600 --> 00:00:03,300
+kita harus belajar
+
+4
+00:00:03,300 --> 00:00:04,233
+semuanya dari awal.
+
+5
+00:00:04,633 --> 00:00:05,700
+Dulu, pengetahuan banyak
+
+6
+00:00:05,700 --> 00:00:06,533
+berpindah lewat cerita
+
+7
+00:00:06,533 --> 00:00:07,467
+dan contoh langsung.
+
+8
+00:00:07,567 --> 00:00:08,467
+Kalau nggak diteruskan,
+
+9
+00:00:08,467 --> 00:00:09,167
+pengetahuan itu bisa
+
+10
+00:00:09,167 --> 00:00:09,633
+hilang.
+
+11
+00:00:09,967 --> 00:00:10,933
+Lalu manusia mengembangkan
+
+12
+00:00:10,933 --> 00:00:11,500
+tulisan.
+
+13
+00:00:11,733 --> 00:00:12,700
+Sekarang, seseorang bisa
+
+14
+00:00:12,700 --> 00:00:13,633
+meninggalkan petunjuk untuk
+
+15
+00:00:13,633 --> 00:00:14,400
+orang yang bahkan
+
+16
+00:00:14,400 --> 00:00:15,100
+belum lahir.
+
+17
+00:00:15,533 --> 00:00:16,400
+Manusia akhirnya punya
+
+18
+00:00:16,400 --> 00:00:17,033
+semacam...
+
+19
+00:00:17,133 --> 00:00:18,100
+tombol save.
+
+20
+00:00:18,467 --> 00:00:19,767
+Percetakan membantu memperbanyak
+
+21
+00:00:19,767 --> 00:00:20,467
+salinannya.
+
+22
+00:00:21,033 --> 00:00:21,633
+Lebih banyak orang
+
+23
+00:00:21,633 --> 00:00:22,933
+bisa membaca, menguji,
+
+24
+00:00:22,933 --> 00:00:23,933
+dan menambahkan pengetahuan
+
+25
+00:00:23,933 --> 00:00:24,367
+baru.
+
+26
+00:00:24,733 --> 00:00:25,700
+Komputer membuat informasi
+
+27
+00:00:25,700 --> 00:00:26,667
+lebih mudah diolah.
+
+28
+00:00:26,867 --> 00:00:27,833
+Internet membuatnya bisa
+
+29
+00:00:27,833 --> 00:00:28,633
+berpindah ke berbagai
+
+30
+00:00:28,633 --> 00:00:29,433
+penjuru dunia.
+
+31
+00:00:29,867 --> 00:00:30,900
+Dan sekarang, AI
+
+32
+00:00:30,900 --> 00:00:31,700
+mempelajari pola dari
+
+33
+00:00:31,700 --> 00:00:32,833
+banyak data untuk
+
+34
+00:00:32,833 --> 00:00:34,300
+menghasilkan teks, gambar,
+
+35
+00:00:34,300 --> 00:00:35,100
+sampai kode.
+
+36
+00:00:35,300 --> 00:00:35,900
+Tapi ada masalah.
+
+37
+00:00:35,900 --> 00:00:36,900
+Jawabannya bisa terdengar
+
+38
+00:00:36,900 --> 00:00:37,533
+yakin...
+
+39
+00:00:37,733 --> 00:00:38,567
+meskipun salah.
+
+40
+00:00:38,800 --> 00:00:40,133
+Jadi, kemampuan penting
+
+41
+00:00:40,133 --> 00:00:40,900
+sekarang bukan cuma
+
+42
+00:00:40,900 --> 00:00:41,567
+bertanya.
+
+43
+00:00:41,700 --> 00:00:42,667
+Tapi tahu cara
+
+44
+00:00:42,667 --> 00:00:43,667
+memeriksa jawabannya.
+
+45
+00:00:44,133 --> 00:00:44,633
+Kalau kamu bisa
+
+46
+00:00:44,633 --> 00:00:45,933
+meninggalkan satu pengetahuan
+
+47
+00:00:46,033 --> 00:00:46,700
+untuk orang seribu
+
+48
+00:00:46,700 --> 00:00:47,367
+tahun lagi...
+
+49
+00:00:47,367 --> 00:00:48,100
+kamu pilih apa?
