@@ -1,0 +1,13 @@
+Kelihatannya sama-sama chat, tapi cara kerjanya bisa beda 👀
+
+Di sini aku pakai satu contoh: bikin konten teknologi. Chatbot buat ngobrol dan menyusun ide, workflow mengikuti alur yang disiapkan, agent memilih langkah dengan alat yang terhubung. Satu aplikasi juga bisa menggabungkan semuanya.
+
+Pekerjaanmu paling butuh bantuan di bagian mana?
+
+Rujukan konsep: Anthropic — Building Effective Agents
+https://www.anthropic.com/engineering/building-effective-agents
+
+Voice: ElevenLabs — https://elevenlabs.io/
+Animasi 2D dan musik dibuat untuk video ini.
+
+#BelajarAI #Produktivitas #Teknologi

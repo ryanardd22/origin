@@ -1,0 +1,15 @@
+Sini, aku kasih tahu. Biar gampang, kita bedain tiga cara pakai AI: chatbot, workflow, sama agent.
+
+Bayangin kamu mau bikin konten tentang teknologi.
+
+Pertama, chatbot. Kamu minta ide, dia kasih pilihan. Kurang cocok? Kamu bilang, coba yang lebih lucu. Kalian ngobrol sampai idenya pas.
+
+Kedua, workflow. Kamu tentukan alurnya dulu. Topik masuk, AI menyusun naskah, lalu hasilnya disimpan ke dokumen. Sistem mengikuti langkah yang sudah kamu siapkan.
+
+Ketiga, agent. Kamu kasih tujuan: siapkan bahan konten teknologi. Kalau alatnya terhubung, model bisa memilih untuk mencari sumber, membaca hasilnya, lalu mencari lagi kalau bahannya belum cukup. Kalau mentok, dia bisa minta bantuan.
+
+Jadi, chatbot kamu ajak ngobrol. Workflow mengikuti alur. Agent memilih langkah menuju tujuan.
+
+Ini bukan tiga kotak yang terpisah, ya. Satu aplikasi bisa menggabungkan semuanya.
+
+Sekarang, pekerjaanmu paling butuh yang mana?
