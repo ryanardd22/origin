@@ -1,0 +1,42 @@
+PETA TOOL AI SESUAI PEKERJAAN
+Rangkuman editorial, diperiksa dari sumber resmi 5 November 2026.
+Bukan peringkat tool terbaik; fitur, batas, dan biaya dapat berbeda menurut akun/paket.
+
+1. DRAF DESAIN — ADOBE EXPRESS
+Contoh tugas: membuat awal template poster.
+Fitur yang dirujuk: Generate template dari prompt teks; halaman resmi menyatakan English only.
+Prompt bahasa Inggris yang bisa dicoba:
+Create a square poster for a creative class. Use a clean layout with space for a headline, date, and contact information. Use teal and cream. Keep the text editable.
+Artinya: poster persegi untuk kelas kreatif, tata letak bersih, ruang judul/tanggal/kontak, warna teal dan krem.
+Setelahnya: isi informasi yang benar, periksa tulisan, hierarki teks, tata letak, dan aset sebelum ekspor. Ini instruksi percobaan, bukan jaminan hasil tertentu.
+Sumber: https://www.adobe.com/express/ai
+
+2. SUBTITLE VIDEO — CAPCUT
+Contoh tugas: memberi subtitle pada video berbicara.
+Langkah: masukkan video → cari fitur auto captions → pilih bahasa yang sesuai → buat caption → koreksi → ekspor.
+Cek nama, angka, istilah, dan waktunya dengan audio asli. Contoh di video 'tua' menjadi 'dua' adalah ilustrasi koreksi, bukan hasil uji kesalahan CapCut.
+Sumber: https://www.capcut.com/tools/auto-caption-generator
+
+3. MEMAHAMI MATERI — GEMINI NOTEBOOK
+Contoh tugas: bertanya dari dokumen/catatan yang dimasukkan sebagai sumber.
+Prompt:
+Berdasarkan sumber yang saya masukkan, apa tiga poin utamanya? Untuk setiap poin, sertakan kutipan atau rujukan bagian sumber. Jika informasi tidak ada di sumber, katakan tidak ditemukan. Bedakan fakta sumber dari penjelasan tambahan.
+Lalu buka setiap kutipan dan bandingkan dengan sumber asli. Rujukan bukan jaminan bahwa semua kesimpulan sudah tepat.
+Nama Gemini Notebook mengikuti halaman bantuan resmi yang terbaca pada tanggal akses. URL bantuan NotebookLM dialihkan ke halaman Gemini Notebook; tampilan/nama akun dapat berubah.
+Sumber: https://support.google.com/gemininotebook/answer/16164461?hl=en
+Akses produk yang teramati: https://notebook.google/
+
+4. WORKFLOW DENGAN LANGKAH AI — N8N
+Contoh tugas: data formulir → draf balasan → pemeriksaan manusia.
+Rancang: pemicu, sumber data, langkah AI, format hasil, kondisi data kosong, pemeriksaan, dan penanganan kegagalan.
+Instruksi langkah AI:
+Gunakan hanya data formulir dan informasi usaha yang diberikan. Buat draf balasan. Jangan menebak harga, jadwal, atau stok. Tandai informasi yang belum tersedia. Jangan mengklaim pesan sudah terkirim.
+Hubungkan aplikasi dan penyedia model yang dipilih, atur akses, lalu uji dengan data contoh. Cek biaya layanan dan batas paket yang digunakan. Prompt saja belum memasang workflow otomatis.
+Sumber: https://docs.n8n.io/build/integrate-ai.md
+
+PILIH SATU DULU
+Pekerjaan yang sering berulang: [...]
+Tool yang relevan: [...]
+Hasil percobaan yang bisa diperiksa: [...]
+Hal yang masih harus diperbaiki manusia: [...]
+Periksa fitur dan biaya pada akunmu sebelum berlangganan.

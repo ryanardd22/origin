@@ -1,0 +1,14 @@
+Bingung pakai AI yang mana? Mulai dari pekerjaannya.
+
+Desain poster → Adobe Express
+Subtitle video → CapCut
+Belajar dari sumber sendiri → Gemini Notebook
+Workflow dengan langkah AI → n8n
+
+Setiap pilihan punya pekerjaan lanjutan: rapikan desain, koreksi subtitle, buka kutipan, atau sambungkan dan uji alur. Fitur dan biaya bisa beda menurut paket. Khusus Generate template Adobe, halaman resmi menyebut prompt bahasa Inggris.
+
+Simpan petanya untuk memilih satu tool saat kamu butuh. Ini contoh penggunaan, bukan peringkat terbaik atau rekaman hasil uji keempat produk.
+Rujukan resmi diperiksa 5 November 2026; daftar dan prompt ada di paket pendamping.
+
+Voice: ElevenLabs — https://elevenlabs.io/
+#BelajarAI #ToolsAI #Produktivitas

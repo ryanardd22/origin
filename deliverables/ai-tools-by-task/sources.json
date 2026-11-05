@@ -1,0 +1,26 @@
+[
+  {
+    "tool": "Adobe Express",
+    "category": "Draf desain",
+    "url": "https://www.adobe.com/express/ai",
+    "verified": "Generate template creates templates from text prompt; official page specifies English only. Final copy limits recommendation to draft template and human text/layout cleanup."
+  },
+  {
+    "tool": "CapCut",
+    "category": "Subtitle video",
+    "url": "https://www.capcut.com/tools/auto-caption-generator",
+    "verified": "Speech recognition generates captions; no accuracy, free access, or feature parity promised."
+  },
+  {
+    "tool": "Gemini Notebook",
+    "category": "Memahami materi",
+    "url": "https://support.google.com/gemininotebook/answer/16164461?hl=en",
+    "verified": "Official NotebookLM support URL redirected to Gemini Notebook support, source text calls it Gemini Notebook and states source-based chat with inline citations; current name used in video."
+  },
+  {
+    "tool": "n8n",
+    "category": "Workflow dengan langkah AI",
+    "url": "https://docs.n8n.io/build/integrate-ai.md",
+    "verified": "AI-powered workflows can connect LLM providers and tools. Main recommendation includes setup and testing rather than claiming ready automation."
+  }
+]

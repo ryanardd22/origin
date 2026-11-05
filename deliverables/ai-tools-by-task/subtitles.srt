@@ -1,0 +1,171 @@
+1
+00:00:00,000 --> 00:00:00,967
+Bingung pakai AI
+
+2
+00:00:00,967 --> 00:00:01,667
+yang mana?
+
+3
+00:00:01,900 --> 00:00:02,833
+Sini, pilih dari
+
+4
+00:00:02,833 --> 00:00:03,533
+kerjaannya.
+
+5
+00:00:03,800 --> 00:00:04,700
+Bikin poster?
+
+6
+00:00:05,233 --> 00:00:06,100
+Adobe Express bisa
+
+7
+00:00:06,100 --> 00:00:07,100
+membuat template dari
+
+8
+00:00:07,100 --> 00:00:08,400
+prompt bahasa Inggris.
+
+9
+00:00:09,167 --> 00:00:09,833
+Teks dan tata
+
+10
+00:00:09,833 --> 00:00:10,600
+letaknya tetap kamu
+
+11
+00:00:10,600 --> 00:00:11,233
+rapikan.
+
+12
+00:00:11,667 --> 00:00:13,033
+Butuh subtitle video?
+
+13
+00:00:13,467 --> 00:00:14,367
+CapCut punya caption
+
+14
+00:00:14,367 --> 00:00:15,100
+otomatis.
+
+15
+00:00:15,633 --> 00:00:16,533
+Periksa lagi nama,
+
+16
+00:00:16,533 --> 00:00:17,367
+angka, dan kata
+
+17
+00:00:17,367 --> 00:00:18,033
+yang salah.
+
+18
+00:00:18,567 --> 00:00:19,267
+Belajar dari materi
+
+19
+00:00:19,267 --> 00:00:19,900
+sendiri?
+
+20
+00:00:20,400 --> 00:00:21,267
+Gemini Notebook bisa
+
+21
+00:00:21,267 --> 00:00:22,100
+menjawab dari sumber
+
+22
+00:00:22,100 --> 00:00:23,000
+yang kamu masukkan.
+
+23
+00:00:23,500 --> 00:00:24,367
+Buka kutipannya untuk
+
+24
+00:00:24,367 --> 00:00:25,300
+mengecek jawaban.
+
+25
+00:00:25,733 --> 00:00:26,800
+Menyambungkan pekerjaan antar
+
+26
+00:00:26,800 --> 00:00:27,500
+aplikasi?
+
+27
+00:00:28,033 --> 00:00:29,733
+Coba n8n untuk
+
+28
+00:00:29,733 --> 00:00:30,767
+menyusun workflow dengan
+
+29
+00:00:30,767 --> 00:00:31,600
+langkah AI.
+
+30
+00:00:32,033 --> 00:00:32,833
+Koneksi dan aturannya
+
+31
+00:00:32,833 --> 00:00:33,567
+perlu disiapkan dan
+
+32
+00:00:33,567 --> 00:00:34,133
+diuji.
+
+33
+00:00:34,700 --> 00:00:35,567
+Fitur dan biaya
+
+34
+00:00:35,567 --> 00:00:36,300
+bisa berbeda menurut
+
+35
+00:00:36,300 --> 00:00:36,833
+paket.
+
+36
+00:00:37,200 --> 00:00:37,833
+Mulai dari satu
+
+37
+00:00:37,833 --> 00:00:39,033
+pekerjaan yang paling
+
+38
+00:00:39,033 --> 00:00:40,067
+sering kamu lakukan.
+
+39
+00:00:40,867 --> 00:00:42,500
+Simpan petanya: desain
+
+40
+00:00:42,500 --> 00:00:44,200
+Adobe Express, subtitle
+
+41
+00:00:44,200 --> 00:00:45,733
+CapCut, materi Gemini
+
+42
+00:00:45,733 --> 00:00:47,400
+Notebook, workflow n8n.
+
+43
+00:00:47,433 --> 00:00:48,700
+Pilih sesuai kebutuhanmu.

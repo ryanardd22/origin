@@ -1,0 +1,13 @@
+Bingung pakai AI yang mana? Sini, pilih dari kerjaannya.
+
+Bikin poster? Adobe Express bisa membuat template dari prompt bahasa Inggris. Teks dan tata letaknya tetap kamu rapikan.
+
+Butuh subtitle video? CapCut punya caption otomatis. Periksa lagi nama, angka, dan kata yang salah.
+
+Belajar dari materi sendiri? Gemini Notebook bisa menjawab dari sumber yang kamu masukkan. Buka kutipannya untuk mengecek jawaban.
+
+Menyambungkan pekerjaan antar aplikasi? Coba n8n untuk menyusun workflow dengan langkah AI. Koneksi dan aturannya perlu disiapkan dan diuji.
+
+Fitur dan biaya bisa berbeda menurut paket. Mulai dari satu pekerjaan yang paling sering kamu lakukan.
+
+Simpan petanya: desain Adobe Express, subtitle CapCut, materi Gemini Notebook, workflow n8n. Pilih sesuai kebutuhanmu.
