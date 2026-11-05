@@ -1,0 +1,179 @@
+1
+00:00:00,167 --> 00:00:01,033
+AI kamu jawabannya
+
+2
+00:00:01,033 --> 00:00:01,767
+terlalu umum?
+
+3
+00:00:02,133 --> 00:00:02,967
+Sini, aku kasih
+
+4
+00:00:02,967 --> 00:00:03,700
+cara biar tugasnya
+
+5
+00:00:03,700 --> 00:00:04,433
+lebih jelas.
+
+6
+00:00:04,867 --> 00:00:05,833
+Misalnya kamu bilang,
+
+7
+00:00:05,933 --> 00:00:06,600
+bantu aku bikin
+
+8
+00:00:06,600 --> 00:00:07,200
+konten.
+
+9
+00:00:07,633 --> 00:00:08,533
+Konten buat siapa,
+
+10
+00:00:08,533 --> 00:00:09,467
+bahannya apa, dan
+
+11
+00:00:09,467 --> 00:00:10,200
+hasilnya mau seperti
+
+12
+00:00:10,200 --> 00:00:10,633
+apa?
+
+13
+00:00:11,133 --> 00:00:12,000
+Biar gampang, pakai
+
+14
+00:00:12,000 --> 00:00:13,367
+empat pegangan: tugas,
+
+15
+00:00:13,367 --> 00:00:14,767
+konteks, bahan, sama
+
+16
+00:00:14,767 --> 00:00:15,600
+format hasil.
+
+17
+00:00:15,967 --> 00:00:16,967
+Sekarang kita rapikan.
+
+18
+00:00:17,500 --> 00:00:18,167
+Ubah catatan ini
+
+19
+00:00:18,167 --> 00:00:19,267
+jadi naskah video.
+
+20
+00:00:19,500 --> 00:00:20,600
+Penontonnya pemula yang
+
+21
+00:00:20,900 --> 00:00:22,000
+baru belajar AI.
+
+22
+00:00:22,233 --> 00:00:22,867
+Pakai tiga poin
+
+23
+00:00:22,867 --> 00:00:23,700
+di catatan ini.
+
+24
+00:00:24,467 --> 00:00:25,033
+Buat tiga puluh
+
+25
+00:00:25,033 --> 00:00:26,433
+detik, bahasa santai,
+
+26
+00:00:26,633 --> 00:00:27,233
+dan tutup dengan
+
+27
+00:00:27,233 --> 00:00:28,167
+satu pertanyaan.
+
+28
+00:00:28,700 --> 00:00:29,500
+Kalau hasilnya belum
+
+29
+00:00:29,500 --> 00:00:30,667
+pas, revisi bagian
+
+30
+00:00:30,667 --> 00:00:31,500
+yang spesifik.
+
+31
+00:00:31,633 --> 00:00:33,200
+Contohnya, ringkas pembukanya
+
+32
+00:00:33,200 --> 00:00:34,167
+jadi satu kalimat.
+
+33
+00:00:34,533 --> 00:00:35,767
+Tetap cek faktanya.
+
+34
+00:00:36,300 --> 00:00:37,100
+Kalau ada informasi
+
+35
+00:00:37,100 --> 00:00:38,067
+yang belum jelas,
+
+36
+00:00:38,067 --> 00:00:39,067
+minta ditandai untuk
+
+37
+00:00:39,067 --> 00:00:39,967
+dikonfirmasi.
+
+38
+00:00:40,400 --> 00:00:41,933
+Jadi, sebutkan tugasnya,
+
+39
+00:00:41,933 --> 00:00:43,233
+beri konteks, sertakan
+
+40
+00:00:43,233 --> 00:00:44,233
+bahan, dan tentukan
+
+41
+00:00:44,233 --> 00:00:45,033
+bentuk hasil.
+
+42
+00:00:45,567 --> 00:00:46,333
+Coba rapikan satu
+
+43
+00:00:46,333 --> 00:00:47,333
+permintaanmu hari ini.
+
+44
+00:00:47,467 --> 00:00:48,067
+Bagian mana yang
+
+45
+00:00:48,067 --> 00:00:48,967
+biasanya kamu lupa?

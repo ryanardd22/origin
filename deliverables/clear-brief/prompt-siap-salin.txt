@@ -1,0 +1,18 @@
+TUGAS
+Ubah catatan berikut menjadi naskah video.
+
+KONTEKS
+Penonton pemula yang baru belajar AI.
+
+BAHAN
+1. AI bisa membantu menyusun draf.
+2. Jawaban AI perlu diperiksa.
+3. Data rahasia jangan dibagikan.
+
+FORMAT HASIL
+Target durasi sekitar 30 detik, bahasa santai, pembuka satu kalimat, satu contoh, dan penutup satu pertanyaan.
+
+Tandai informasi yang belum tersedia dengan [PERLU KONFIRMASI]. Setelah mendapat jawaban, tetap periksa fakta dan kesesuaiannya.
+
+CONTOH REVISI
+Ringkas pembukanya menjadi satu kalimat. Pertahankan bagian lain yang sudah sesuai.

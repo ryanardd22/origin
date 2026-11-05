@@ -1,0 +1,10 @@
+Jawaban AI masih terlalu umum? Coba perjelas empat hal ini: tugas, konteks, bahan, dan format hasil.
+
+Di video ini satu permintaan konten dirapikan langkah demi langkah. Prompt siap salin disertakan bersama video. Tetap cek fakta dan revisi bagian yang belum cocok.
+
+Dari empat pegangan itu, mana yang paling sering kamu lewatkan?
+
+Rujukan: https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt
+Voice: ElevenLabs — https://elevenlabs.io/
+
+#BelajarAI #Produktivitas #PromptAI
