@@ -1,0 +1,23 @@
+[
+  {
+    "project": "ai-check-answers",
+    "slug": "cek-jawaban-ai",
+    "title": "Jawaban AI rapi, tapi benar?",
+    "duration_seconds": 50.56666666666667,
+    "frames": 1517
+  },
+  {
+    "project": "ai-meeting-actions",
+    "slug": "catatan-jadi-tugas",
+    "title": "Rapat selesai. Terus siapa mengerjakan apa?",
+    "duration_seconds": 52.6,
+    "frames": 1578
+  },
+  {
+    "project": "ai-focused-revision",
+    "slug": "revisi-satu-bagian",
+    "title": "Sudah hampir pas? Revisi bagian ini saja.",
+    "duration_seconds": 51.06666666666667,
+    "frames": 1532
+  }
+]

@@ -1,0 +1,171 @@
+1
+00:00:00,067 --> 00:00:01,200
+Catatan rapat panjang
+
+2
+00:00:01,233 --> 00:00:02,067
+belum tentu bikin
+
+3
+00:00:02,067 --> 00:00:02,967
+kerjaan jalan.
+
+4
+00:00:03,233 --> 00:00:04,100
+Coba ubah jadi
+
+5
+00:00:04,100 --> 00:00:06,100
+empat kolom: tugas,
+
+6
+00:00:06,100 --> 00:00:07,933
+penanggung jawab, tenggat,
+
+7
+00:00:08,000 --> 00:00:09,000
+dan status.
+
+8
+00:00:09,500 --> 00:00:11,067
+Misalnya catatanmu begini:
+
+9
+00:00:11,467 --> 00:00:12,500
+Rani menyiapkan desain
+
+10
+00:00:12,500 --> 00:00:13,233
+hari Jumat.
+
+11
+00:00:13,600 --> 00:00:14,833
+Bima mengecek stok.
+
+12
+00:00:15,233 --> 00:00:16,267
+Jadwal promo belum
+
+13
+00:00:16,267 --> 00:00:17,033
+diputuskan.
+
+14
+00:00:17,367 --> 00:00:18,467
+Minta AI mengambil
+
+15
+00:00:18,467 --> 00:00:19,433
+tindakan yang disebutkan
+
+16
+00:00:19,433 --> 00:00:20,000
+saja.
+
+17
+00:00:20,233 --> 00:00:21,033
+Rani punya tugas
+
+18
+00:00:21,033 --> 00:00:21,900
+desain dan tenggat
+
+19
+00:00:21,900 --> 00:00:22,467
+Jumat.
+
+20
+00:00:22,967 --> 00:00:24,167
+Bima mengecek stok,
+
+21
+00:00:24,167 --> 00:00:25,067
+tapi tenggatnya belum
+
+22
+00:00:25,067 --> 00:00:25,833
+disebutkan.
+
+23
+00:00:26,067 --> 00:00:27,267
+Untuk jadwal promo,
+
+24
+00:00:27,267 --> 00:00:28,833
+tulis belum diputuskan.
+
+25
+00:00:29,200 --> 00:00:30,033
+Jangan mengisi tanggal
+
+26
+00:00:30,033 --> 00:00:30,700
+sendiri.
+
+27
+00:00:31,200 --> 00:00:32,567
+Setelah itu, cocokkan
+
+28
+00:00:32,567 --> 00:00:33,533
+tabel dengan catatan
+
+29
+00:00:33,533 --> 00:00:34,100
+asli.
+
+30
+00:00:34,467 --> 00:00:35,900
+Konfirmasi pembagian tugas
+
+31
+00:00:35,900 --> 00:00:36,667
+ke orangnya sebelum
+
+32
+00:00:36,667 --> 00:00:37,367
+dijalankan.
+
+33
+00:00:37,567 --> 00:00:39,433
+Prompt-nya: ubah catatan
+
+34
+00:00:39,433 --> 00:00:40,100
+ini jadi tabel
+
+35
+00:00:40,100 --> 00:00:41,833
+tugas, penanggung jawab,
+
+36
+00:00:41,833 --> 00:00:43,533
+tenggat, dan status.
+
+37
+00:00:43,900 --> 00:00:44,567
+Tandai yang belum
+
+38
+00:00:44,567 --> 00:00:45,267
+disebutkan.
+
+39
+00:00:45,633 --> 00:00:46,533
+Jangan menambah tugas
+
+40
+00:00:46,533 --> 00:00:47,033
+baru.
+
+41
+00:00:47,267 --> 00:00:48,367
+Simpan formatnya.
+
+42
+00:00:48,833 --> 00:00:49,500
+Setelah rapat, kamu
+
+43
+00:00:49,500 --> 00:00:50,500
+tinggal isi bahannya.

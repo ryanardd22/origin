@@ -1,0 +1,23 @@
+PROMPT CATATAN RAPAT → TABEL TINDAK LANJUT
+
+Ubah catatan di bawah menjadi tabel: tugas | penanggung jawab | tenggat | status.
+Ambil hanya tindakan yang disebutkan. Jangan menambah tugas, orang, tanggal, atau status.
+Isi informasi yang tidak tersedia dengan "Belum disebutkan".
+Pisahkan keputusan yang masih menunggu sebagai "Keputusan tertunda", bukan tugas baru.
+Pertahankan tanggal relatif sebagaimana tertulis; beri catatan bila tanggal pastinya perlu dikonfirmasi.
+Setelah tabel, tulis pertanyaan konfirmasi yang diperlukan. Jangan mengirim pesan atau menjalankan tugas.
+
+CATATAN:
+[tempel catatan]
+
+CONTOH FIKTIF:
+Rani menyiapkan desain hari Jumat. Bima mengecek stok. Jadwal promo belum diputuskan.
+
+HASIL YANG DAPAT DITARIK DARI CATATAN ITU:
+Siapkan desain | Rani | Jumat* | Belum disebutkan
+Cek stok | Bima | Belum disebutkan | Belum disebutkan
+Keputusan tertunda: jadwal promo belum diputuskan.
+*Jumat: tanggal pastinya perlu dikonfirmasi.
+
+SEBELUM DIJALANKAN:
+Bandingkan dengan catatan asli. Konfirmasi penanggung jawab, tanggal pasti, dan status. Jangan menyamakan rencana tugas dengan pekerjaan yang sudah selesai.

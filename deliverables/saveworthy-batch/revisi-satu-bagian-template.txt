@@ -1,0 +1,18 @@
+POLA REVISI TIGA BAGIAN
+
+Bagian yang diubah: [misalnya paragraf pembuka]
+Perubahan yang saya mau: [misalnya ringkas jadi satu kalimat, bahasa santai]
+Bagian yang dipertahankan: [misalnya contoh, angka, nama, dan penutup]
+
+Prompt siap salin:
+Revisi hanya [bagian]. Ubah menjadi [perubahan konkret]. Pertahankan [bagian/fakta penting]. Jangan menambah klaim atau fakta baru. Tampilkan versi revisi dan daftar perubahan singkat. Jika instruksi bertentangan, sebutkan konfliknya.
+
+Teks asli:
+[tempel teks]
+
+CEK HASIL:
+1. Bagian yang diminta sudah berubah sesuai tujuan?
+2. Fakta dan bagian yang dipertahankan masih sesuai dengan versi asli?
+3. Ada klaim baru, bagian hilang, atau perubahan yang tidak diminta?
+
+Jika melenceng, tunjuk bagian tersebut secara spesifik pada revisi berikutnya. Untuk kalimat yang harus benar-benar persis, bandingkan langsung dengan teks asli. Pola ini membantu memberi instruksi; kepatuhan model tetap perlu diperiksa.

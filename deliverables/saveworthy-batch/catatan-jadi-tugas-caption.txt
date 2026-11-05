@@ -1,0 +1,8 @@
+Catatan rapat sudah panjang, tapi langkah berikutnya masih kabur?
+Coba pisahkan jadi tugas, penanggung jawab, tenggat, dan status.
+
+Yang belum disebutkan, biarkan ditandai. AI tidak perlu menebak tanggal atau membagikan tugas sendiri. Cocokkan dengan catatan asli dan konfirmasi ke orangnya.
+Simpan formatnya untuk rapat berikutnya.
+
+Voice: ElevenLabs — https://elevenlabs.io/
+#BelajarAI #Produktivitas #TipsAI

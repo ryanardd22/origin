@@ -1,0 +1,20 @@
+CHECKLIST CEK JAWABAN AI
+
+Klaim yang mau dipakai: [tulis satu klaim spesifik]
+1. SUMBER ADA?
+Tautan asli: [...]
+Sudah dibuka sendiri? [...]
+2. MENDUKUNG KLAIM?
+Bagian sumber yang relevan: [...]
+Apakah kalimat AI lebih luas daripada isi sumber? [...]
+3. KONTEKS COCOK?
+Tanggal terbit/data: [...]
+Siapa atau apa yang dibahas: [...]
+Batas kesimpulan: [...]
+
+Jika belum terjawab, status: BELUM TERVERIFIKASI.
+Sumber yang ditemukan pun masih perlu dinilai kredibilitasnya. Daftar ini bukan jaminan bahwa sebuah klaim benar.
+
+Prompt pendamping:
+Pisahkan jawaban berikut menjadi klaim yang bisa diperiksa. Untuk tiap klaim, sebutkan sumber asli yang mendukung, bagian yang relevan, dan batas konteksnya. Jika tidak dapat memverifikasi, tulis belum terverifikasi. Jangan membuat kutipan atau tautan. Saya akan membuka sumbernya sendiri.
+[tempel jawaban]

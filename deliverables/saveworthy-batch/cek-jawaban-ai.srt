@@ -1,0 +1,151 @@
+1
+00:00:00,533 --> 00:00:01,833
+Jawaban AI rapi
+
+2
+00:00:01,833 --> 00:00:02,733
+belum tentu benar.
+
+3
+00:00:03,000 --> 00:00:03,767
+Sebelum kamu pakai,
+
+4
+00:00:03,767 --> 00:00:04,333
+cek tiga hal
+
+5
+00:00:04,333 --> 00:00:04,800
+ini.
+
+6
+00:00:05,067 --> 00:00:06,767
+Pertama, sumbernya ada?
+
+7
+00:00:07,267 --> 00:00:08,167
+Kalau AI menyebut
+
+8
+00:00:08,167 --> 00:00:09,833
+artikel, buka tautannya.
+
+9
+00:00:10,200 --> 00:00:11,067
+Judul dan penulis
+
+10
+00:00:11,067 --> 00:00:12,067
+yang terlihat meyakinkan
+
+11
+00:00:12,067 --> 00:00:12,767
+belum cukup.
+
+12
+00:00:13,000 --> 00:00:14,700
+Kedua, sumbernya benar-benar
+
+13
+00:00:14,700 --> 00:00:15,767
+mendukung kalimat itu?
+
+14
+00:00:16,300 --> 00:00:17,467
+Artikel tentang manfaat
+
+15
+00:00:17,467 --> 00:00:18,800
+AI belum tentu
+
+16
+00:00:18,800 --> 00:00:20,033
+membuktikan semua pekerjaan
+
+17
+00:00:20,033 --> 00:00:21,433
+bisa diotomatisasi.
+
+18
+00:00:21,967 --> 00:00:23,667
+Ketiga, konteksnya masih
+
+19
+00:00:23,667 --> 00:00:24,233
+cocok?
+
+20
+00:00:24,667 --> 00:00:26,267
+Cek tanggal, siapa
+
+21
+00:00:26,267 --> 00:00:27,033
+yang diteliti, dan
+
+22
+00:00:27,033 --> 00:00:28,100
+batas kesimpulannya.
+
+23
+00:00:28,633 --> 00:00:29,500
+Kalau sumbernya tidak
+
+24
+00:00:29,500 --> 00:00:30,733
+ketemu, tandai klaim
+
+25
+00:00:30,733 --> 00:00:31,800
+itu sebagai belum
+
+26
+00:00:31,800 --> 00:00:32,933
+terverifikasi.
+
+27
+00:00:33,167 --> 00:00:34,100
+Jangan langsung jadikan
+
+28
+00:00:34,100 --> 00:00:34,667
+fakta.
+
+29
+00:00:34,900 --> 00:00:35,800
+Jawaban yang diulang
+
+30
+00:00:35,800 --> 00:00:36,933
+AI lain juga
+
+31
+00:00:36,933 --> 00:00:37,867
+belum otomatis jadi
+
+32
+00:00:37,867 --> 00:00:38,433
+bukti.
+
+33
+00:00:38,867 --> 00:00:40,367
+Simpan tiga pertanyaannya:
+
+34
+00:00:40,533 --> 00:00:42,233
+sumbernya ada, isinya
+
+35
+00:00:42,233 --> 00:00:44,333
+mendukung, konteksnya cocok?
+
+36
+00:00:44,867 --> 00:00:46,067
+Pakai daftar ini
+
+37
+00:00:46,233 --> 00:00:47,433
+sebelum kamu membagikan
+
+38
+00:00:47,433 --> 00:00:48,500
+jawaban AI.

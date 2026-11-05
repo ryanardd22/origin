@@ -1,0 +1,11 @@
+Hasil AI sudah hampir cocok? Sebutkan tiga hal saat merevisi:
+• bagian yang diubah;
+• perubahan yang kamu mau;
+• bagian yang dipertahankan.
+
+Contoh: ringkas pembuka jadi satu kalimat, pakai bahasa santai, pertahankan contoh dan penutup.
+Sesudahnya, bandingkan lagi. Instruksi tidak menjamin AI selalu mempertahankan bagian lain dengan tepat.
+Simpan pola ini kalau sering bolak-balik merevisi.
+
+Voice: ElevenLabs — https://elevenlabs.io/
+#BelajarAI #Produktivitas #TipsAI

@@ -1,0 +1,13 @@
+Catatan rapat panjang belum tentu bikin kerjaan jalan. Coba ubah jadi empat kolom: tugas, penanggung jawab, tenggat, dan status.
+
+Misalnya catatanmu begini: Rani menyiapkan desain hari Jumat. Bima mengecek stok. Jadwal promo belum diputuskan.
+
+Minta AI mengambil tindakan yang disebutkan saja. Rani punya tugas desain dan tenggat Jumat.
+
+Bima mengecek stok, tapi tenggatnya belum disebutkan. Untuk jadwal promo, tulis belum diputuskan. Jangan mengisi tanggal sendiri.
+
+Setelah itu, cocokkan tabel dengan catatan asli. Konfirmasi pembagian tugas ke orangnya sebelum dijalankan.
+
+Prompt-nya: ubah catatan ini jadi tabel tugas, penanggung jawab, tenggat, dan status. Tandai yang belum disebutkan. Jangan menambah tugas baru.
+
+Simpan formatnya. Setelah rapat, kamu tinggal isi bahannya.

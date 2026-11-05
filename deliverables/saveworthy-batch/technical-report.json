@@ -1,0 +1,112 @@
+[
+  {
+    "project": "ai-check-answers",
+    "file": "cek-jawaban-ai.mp4",
+    "duration_seconds": "50.566667",
+    "video": {
+      "codec_name": "h264",
+      "profile": "Main",
+      "width": 720,
+      "height": 1280,
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1",
+      "nb_frames": "1517"
+    },
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2
+    },
+    "full_decode": "passed",
+    "sha256": "30151af6e4395666c47294608f24a5d9b97e0d6fd87764709d0a04a7ee03a173",
+    "sampled_frames": [
+      76,
+      272,
+      525,
+      760,
+      954,
+      1107,
+      1257,
+      1432,
+      390,
+      393,
+      1497
+    ],
+    "black_events": [],
+    "loudness_summary": "Summary:\n\n  Integrated loudness:\n    I:         -16.0 LUFS\n    Threshold: -27.1 LUFS\n\n  Loudness range:\n    LRA:         3.8 LU\n    Threshold: -37.0 LUFS\n    LRA low:   -19.4 LUFS\n    LRA high:  -15.6 LUFS\n\n  True peak:\n    Peak:       -2.6 dBFS\n[out#0/null @ 0x55864c2ad000] video:652KiB audio:9468KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\nframe= 1517 fps=663 q=-0.0 Lsize=N/A time=00:00:50.56 bitrate=N/A speed=22.1x    \n",
+    "audio_review": "Final mixed audio transcribed with local faster-whisper base. Meaningful narration sequence recovered, with minor ASR spelling differences. Loudness measured and full audio/video decode passed; no full human listening review."
+  },
+  {
+    "project": "ai-meeting-actions",
+    "file": "catatan-jadi-tugas.mp4",
+    "duration_seconds": "52.600000",
+    "video": {
+      "codec_name": "h264",
+      "profile": "Main",
+      "width": 720,
+      "height": 1280,
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1",
+      "nb_frames": "1578"
+    },
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2
+    },
+    "full_decode": "passed",
+    "sha256": "fab4924809c9b12a8a4cd82c276b206898e093b6c2cac74ceea64f001dcb6420",
+    "sampled_frames": [
+      143,
+      404,
+      606,
+      813,
+      1032,
+      1273,
+      1498,
+      521,
+      524,
+      1558
+    ],
+    "black_events": [],
+    "loudness_summary": "Summary:\n\n  Integrated loudness:\n    I:         -15.9 LUFS\n    Threshold: -27.0 LUFS\n\n  Loudness range:\n    LRA:         2.8 LU\n    Threshold: -36.9 LUFS\n    LRA low:   -18.4 LUFS\n    LRA high:  -15.7 LUFS\n\n  True peak:\n    Peak:       -1.8 dBFS\n[out#0/null @ 0x558258442700] video:678KiB audio:9856KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\nframe= 1578 fps=0.0 q=-0.0 Lsize=N/A time=00:00:52.60 bitrate=N/A speed=56.7x    \n",
+    "audio_review": "Final mixed audio transcribed with local faster-whisper base. Meaningful narration sequence recovered, with minor ASR spelling differences. Loudness measured and full audio/video decode passed; no full human listening review."
+  },
+  {
+    "project": "ai-focused-revision",
+    "file": "revisi-satu-bagian.mp4",
+    "duration_seconds": "51.066667",
+    "video": {
+      "codec_name": "h264",
+      "profile": "Main",
+      "width": 720,
+      "height": 1280,
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1",
+      "nb_frames": "1532"
+    },
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2
+    },
+    "full_decode": "passed",
+    "sha256": "f63caf40237af87787008b18fff0cc535fc983f84057317ba1689685e56caa6f",
+    "sampled_frames": [
+      67,
+      242,
+      426,
+      604,
+      805,
+      1023,
+      1230,
+      1424,
+      349,
+      352,
+      1512
+    ],
+    "black_events": [],
+    "loudness_summary": "Summary:\n\n  Integrated loudness:\n    I:         -16.2 LUFS\n    Threshold: -27.2 LUFS\n\n  Loudness range:\n    LRA:         2.7 LU\n    Threshold: -37.2 LUFS\n    LRA low:   -18.5 LUFS\n    LRA high:  -15.8 LUFS\n\n  True peak:\n    Peak:       -2.6 dBFS\n[out#0/null @ 0x55812a4dcdc0] video:658KiB audio:9560KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\nframe= 1532 fps=700 q=-0.0 Lsize=N/A time=00:00:51.06 bitrate=N/A speed=23.3x    \n",
+    "audio_review": "Final mixed audio transcribed with local faster-whisper base. Meaningful narration sequence recovered, with minor ASR spelling differences. Loudness measured and full audio/video decode passed; no full human listening review."
+  }
+]
