@@ -1,0 +1,11 @@
+Sudah minta "bahasa santai", tapi tulisan AI masih kaku?
+
+Coba tambahkan contoh gaya, jelaskan ciri bahasa yang kamu mau, lalu beri bahan faktanya. Referensi gaya membantu menjelaskan arah tulisan; fakta tetap harus mengikuti bahan.
+
+Sesudahnya, baca keras-keras. Ganti kata yang terasa asing buat kamu dan cek kembali isinya.
+
+Simpan polanya: contoh gaya → ciri bahasa → bahanmu → periksa.
+Contoh teks di video adalah ilustrasi buatan, bukan rekaman perbandingan hasil model yang diuji.
+
+Voice: ElevenLabs — https://elevenlabs.io/
+#BelajarAI #TipsMenulis #Produktivitas

@@ -1,0 +1,139 @@
+1
+00:00:00,167 --> 00:00:00,833
+Sudah minta bahasa
+
+2
+00:00:00,833 --> 00:00:01,900
+santai, tapi tulisan
+
+3
+00:00:01,900 --> 00:00:03,067
+AI masih kaku?
+
+4
+00:00:03,433 --> 00:00:04,500
+Coba kasih contoh.
+
+5
+00:00:04,767 --> 00:00:05,500
+Misalnya kamu suka
+
+6
+00:00:05,500 --> 00:00:06,900
+gaya begini: sini
+
+7
+00:00:06,900 --> 00:00:07,933
+aku jelasin, pakai
+
+8
+00:00:07,933 --> 00:00:08,633
+contoh yang dekat
+
+9
+00:00:08,633 --> 00:00:09,533
+sama kerjaanmu.
+
+10
+00:00:09,800 --> 00:00:10,467
+Jangan cuma bilang
+
+11
+00:00:10,467 --> 00:00:11,000
+tiru.
+
+12
+00:00:11,367 --> 00:00:13,067
+Jelaskan polanya: kalimat
+
+13
+00:00:13,067 --> 00:00:14,233
+pendek, sapaan kamu,
+
+14
+00:00:14,233 --> 00:00:14,900
+dan satu contoh
+
+15
+00:00:14,900 --> 00:00:15,533
+konkret.
+
+16
+00:00:15,900 --> 00:00:16,600
+Lalu kasih bahan
+
+17
+00:00:16,600 --> 00:00:17,500
+yang mau diolah.
+
+18
+00:00:17,767 --> 00:00:19,067
+Contohnya, video tentang
+
+19
+00:00:19,067 --> 00:00:20,100
+memeriksa jawaban AI
+
+20
+00:00:20,100 --> 00:00:21,200
+sebelum dibagikan.
+
+21
+00:00:21,533 --> 00:00:22,500
+Minta tiga pembuka
+
+22
+00:00:22,500 --> 00:00:23,433
+dengan gaya tadi.
+
+23
+00:00:23,700 --> 00:00:24,767
+Fakta tetap mengikuti
+
+24
+00:00:24,767 --> 00:00:25,900
+bahanmu, dan jangan
+
+25
+00:00:25,900 --> 00:00:27,200
+menambahkan janji hasil.
+
+26
+00:00:27,667 --> 00:00:29,067
+Sesudahnya, pilih yang
+
+27
+00:00:29,067 --> 00:00:29,967
+paling jelas.
+
+28
+00:00:30,433 --> 00:00:31,133
+Buang kata yang
+
+29
+00:00:31,133 --> 00:00:32,433
+terasa dibuat-buat, lalu
+
+30
+00:00:32,433 --> 00:00:33,533
+baca keras-keras.
+
+31
+00:00:34,033 --> 00:00:35,833
+Simpan polanya: contoh
+
+32
+00:00:35,833 --> 00:00:37,233
+gaya, ciri bahasanya,
+
+33
+00:00:37,233 --> 00:00:38,733
+bahanmu, lalu periksa.
+
+34
+00:00:39,267 --> 00:00:40,433
+Ambil polanya, tulis
+
+35
+00:00:40,433 --> 00:00:41,567
+versi kamu sendiri.

@@ -1,0 +1,34 @@
+POLA REFERENSI GAYA UNTUK DRAF TULISAN
+
+1. CONTOH GAYA
+Pilih contoh tulisanmu sendiri yang nyaman kamu ucapkan. Contoh pendek buatan untuk pelajaran ini:
+"Sini aku jelasin, pakai contoh yang dekat sama kerjaanmu."
+
+2. CIRI BAHASA YANG DIINGINKAN
+Sebutkan secara terpisah, jangan hanya mengatakan "tiru".
+Contoh: kalimat pendek, sapaan kamu, dan satu contoh konkret. Ini petunjuk penerapan, bukan klaim bahwa setiap ciri sudah muncul lengkap dalam kalimat contoh.
+
+3. BAHAN FAKTA
+Masukkan informasi yang ingin disampaikan. Jangan mengambil fakta dari contoh gaya.
+Contoh: topik video adalah memeriksa jawaban AI sebelum dibagikan. Langkahnya: cari sumber asli, cocokkan klaim dengan isi sumber, periksa konteks.
+
+4. PERIKSA
+Cocokkan dengan bahan. Baca keras-keras. Ganti kata yang terasa asing bagimu. Tidak ada jaminan bahwa satu prompt akan menghasilkan gaya atau fakta yang selalu tepat.
+
+PROMPT SIAP SALIN:
+Buat tiga pilihan pembuka untuk [jenis konten] berdasarkan BAHAN FAKTA di bawah. Gunakan CONTOH GAYA hanya sebagai referensi cara bertutur, bukan sumber fakta dan bukan kalimat yang disalin.
+
+CONTOH GAYA:
+[tempel contoh tulisanmu]
+
+CIRI BAHASA YANG DIINGINKAN:
+[misalnya: kalimat pendek, sapaan kamu, satu contoh konkret]
+
+BAHAN FAKTA:
+[tempel informasi yang boleh dipakai]
+
+BATASAN:
+Jangan menambah klaim, angka, janji hasil, atau pengalaman pribadi yang tidak ada dalam bahan. Jika ada fakta yang kurang, tandai alih-alih menebak. Buat setiap pilihan berbeda sudut pembukanya. Setelah itu, sebutkan bagian yang masih perlu saya periksa.
+
+CEK HASIL:
+Apakah mudah dipahami saat diucapkan? Apakah sesuai bahan? Apakah terasa seperti kata-kata yang memang kamu gunakan? Ambil polanya, tulis versimu sendiri.

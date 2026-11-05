@@ -1,0 +1,38 @@
+[
+  {
+    "project": "ai-style-example",
+    "file": "ai-style-example.mp4",
+    "duration_seconds": "43.666667",
+    "video": {
+      "codec_name": "h264",
+      "profile": "Main",
+      "width": 720,
+      "height": 1280,
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1",
+      "nb_frames": "1310"
+    },
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2
+    },
+    "full_decode": "passed",
+    "sha256": "20ddc34186871bf33108fe93cf2cd2b5c3a6a95c58a6bdbf34e318df487f5562",
+    "sampled_frames": [
+      72,
+      219,
+      386,
+      562,
+      739,
+      926,
+      1166,
+      294,
+      297,
+      1290
+    ],
+    "black_events": [],
+    "loudness_summary": "Summary:\n\n  Integrated loudness:\n    I:         -16.0 LUFS\n    Threshold: -27.0 LUFS\n\n  Loudness range:\n    LRA:         2.1 LU\n    Threshold: -36.9 LUFS\n    LRA low:   -18.0 LUFS\n    LRA high:  -15.8 LUFS\n\n  True peak:\n    Peak:       -2.4 dBFS\n[out#0/null @ 0x55a6e0e58ec0] video:563KiB audio:8172KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\nframe= 1310 fps=0.0 q=-0.0 Lsize=N/A time=00:00:43.66 bitrate=N/A speed=52.8x    \n",
+    "audio_review": "Final mixed audio transcribed with local faster-whisper base. Narration sequence recovered with recognition spelling differences. Full decode and loudness measurements passed; no full human listening review."
+  }
+]

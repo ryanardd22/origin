@@ -1,0 +1,27 @@
+LIMA TEMA LANJUTAN — USULAN EDITORIAL
+Belum diproduksi atau diuji performa sosialnya. Hook adalah pilihan kreatif, bukan janji viral.
+
+1. VIDEO AI YANG PUNYA CERITA — REKOMENDASI UTAMA
+Hook: "Gambar bergerak belum tentu jadi cerita. Susun enam shot ini dulu."
+Isi: masalah, pemicu, percobaan, hambatan, perubahan, penutup. Tunjukkan hubungan antar-shot, lalu beri template storyboard kosong.
+Alasan: lebih visual dan dekat dengan materi kelas edit video; bisa diterapkan sebelum memakai tool generasi apa pun.
+
+2. FOTO PRODUK JADI MATERI PROMOSI
+Hook: "AI bikin fotonya cakep, tapi bentuk produknya malah berubah?"
+Isi: pisahkan produk asli dari latar dan dekorasi. Periksa bentuk, warna, label, serta detail penting pada hasil edit.
+Bahan simpan: checklist pemeriksaan visual produk. Contoh dan tool perlu dipilih saat produksi; tidak menjanjikan AI mempertahankan detail secara otomatis.
+
+3. VOICE NOTE JADI DAFTAR TINDAKAN
+Hook: "Voice note panjang, tapi langkah berikutnya masih nggak jelas?"
+Isi: transkrip → pisahkan informasi dan tindakan → tandai orang/tenggat yang belum disebut → cek ke audio asli.
+Bahan simpan: template ekstraksi tindakan; bukan demo mengirim pesan atau menjadwalkan tugas tanpa pemeriksaan.
+
+4. LANGGANAN CHATBOT DAN AKSES API
+Hook: "Sudah langganan AI, kenapa workflow masih minta API?"
+Isi: bedakan antarmuka chat, kredensial integrasi, penggunaan model, dan tagihan yang relevan. Dokumentasi dan paket penyedia harus dicek ulang saat produksi; jangan menganggap langganan selalu menyertakan akses tertentu.
+Bahan simpan: peta akses dan biaya yang perlu dicek sebelum menghubungkan aplikasi.
+
+5. SATU IDE, TIGA FORMAT KONTEN
+Hook: "Satu ide bisa jadi tiga konten. Tapi jangan cuma salin teksnya."
+Isi: ubah satu pelajaran menjadi carousel, video pendek, dan caption dengan struktur masing-masing; pertahankan fakta utama.
+Bahan simpan: matriks pesan inti, contoh, dan ajakan untuk setiap format.
