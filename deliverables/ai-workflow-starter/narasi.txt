@@ -1,0 +1,15 @@
+Kalau tiap hari kamu copy-paste tugas yang sama ke AI, sini aku kasih alurnya.
+
+Contohnya, menjawab pertanyaan pelanggan. Pesan masuk, pisahkan pertanyaannya, ambil informasi usaha, lalu buat draf jawaban.
+
+Misalnya pelanggan bertanya: buka jam berapa, dan stok matcha masih ada?
+
+Jam buka ada di catatan usaha. Pakai informasi itu untuk menyusun draf.
+
+Tapi stoknya belum tercatat. Jangan ditebak. Tandai perlu dicek, dan jangan mengirim jawaban stok otomatis.
+
+Kamu periksa drafnya, pastikan informasinya benar, baru kirim.
+
+Supaya berjalan otomatis, aplikasi yang dipakai perlu dihubungkan dan diuji dulu.
+
+Simpan pola ini: pesan masuk, ambil informasi, buat draf, lalu periksa. Mulai dari satu pekerjaan berulang dulu.

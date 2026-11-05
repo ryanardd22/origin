@@ -1,0 +1,38 @@
+RANCANGAN WORKFLOW PERTANYAAN PELANGGAN
+
+Pola dasar: PESAN MASUK → AMBIL INFORMASI → BUAT DRAF → PERIKSA
+Sebelum mengambil informasi, pisahkan pertanyaan pelanggan berdasarkan topiknya.
+
+Isi dulu:
+Pekerjaan berulang: [...]
+Pemicu: [...]
+Sumber informasi yang diperbarui: [...]
+Hasil yang diinginkan: [draf jawaban, bukan pesan terkirim]
+Informasi yang tidak boleh ditebak: [stok, harga, jadwal, ...]
+Penanggung jawab pemeriksaan: [...]
+Jika data kosong atau aplikasi gagal: [masukkan antrean pemeriksaan]
+
+PROMPT UNTUK MENCOBA BAGIAN PENYUSUNAN DRAF:
+Gunakan hanya INFORMASI USAHA di bawah untuk menanggapi PESAN PELANGGAN. Pisahkan setiap pertanyaannya. Tulis informasi mana yang tersedia dan mana yang belum tersedia. Jangan menebak stok, harga, atau jadwal. Jika datanya tidak ada, tandai PERLU DICEK. Buat draf balasan yang hanya menyatakan fakta yang tersedia, lalu sebutkan bagian yang perlu dikonfirmasi manusia. Jangan mengklaim sudah mengecek sistem, mengirim pesan, atau menyelesaikan pemeriksaan.
+
+INFORMASI USAHA — CONTOH FIKTIF:
+Jam buka: 09.00–21.00.
+Stok matcha: belum tercatat.
+
+PESAN PELANGGAN:
+Halo, buka jam berapa? Stok matcha masih ada?
+
+CONTOH DRAF YANG DIDUKUNG INFORMASI TERSEBUT:
+Kami buka pukul 09.00–21.00. Stok matcha kami cek dulu.
+Status: PERLU DICEK, belum dikirim.
+Pemeriksa masih harus mengonfirmasi jam yang berlaku dan stok aktual sebelum mengirim jawaban yang menyatakan ketersediaan stok.
+
+MEMBUATNYA BERJALAN OTOMATIS:
+Prompt ini hanya mencoba bagian pemahaman pesan dan draf. Agar menjadi workflow otomatis, aplikasi, pemicu, sumber data, aturan percabangan, antrean pemeriksaan, serta penanganan kegagalan perlu disambungkan dan diuji. Video memperagakan rancangan alur, bukan koneksi WhatsApp yang sudah aktif.
+
+COBA SEBELUM DIPAKAI:
+1. Pertanyaan yang datanya lengkap.
+2. Pertanyaan dengan data kosong atau usang.
+3. Pesan campuran beberapa pertanyaan.
+4. Aplikasi atau sumber informasi tidak tersedia.
+Pastikan hasil tetap draf dan informasi yang belum pasti masuk pemeriksaan.

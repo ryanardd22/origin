@@ -1,0 +1,151 @@
+1
+00:00:00,233 --> 00:00:01,067
+Kalau tiap hari
+
+2
+00:00:01,067 --> 00:00:01,867
+kamu copy-paste tugas
+
+3
+00:00:01,867 --> 00:00:02,400
+yang sama ke
+
+4
+00:00:02,400 --> 00:00:03,533
+AI, sini aku
+
+5
+00:00:03,533 --> 00:00:04,367
+kasih alurnya.
+
+6
+00:00:04,433 --> 00:00:05,767
+Contohnya, menjawab pertanyaan
+
+7
+00:00:05,767 --> 00:00:06,367
+pelanggan.
+
+8
+00:00:06,667 --> 00:00:08,000
+Pesan masuk, pisahkan
+
+9
+00:00:08,000 --> 00:00:09,467
+pertanyaannya, ambil informasi
+
+10
+00:00:09,467 --> 00:00:10,767
+usaha, lalu buat
+
+11
+00:00:10,767 --> 00:00:11,633
+draf jawaban.
+
+12
+00:00:11,800 --> 00:00:13,000
+Misalnya pelanggan bertanya:
+
+13
+00:00:13,367 --> 00:00:14,333
+buka jam berapa,
+
+14
+00:00:14,567 --> 00:00:15,133
+dan stok matcha
+
+15
+00:00:15,133 --> 00:00:15,800
+masih ada?
+
+16
+00:00:16,333 --> 00:00:17,033
+Jam buka ada
+
+17
+00:00:17,033 --> 00:00:18,033
+di catatan usaha.
+
+18
+00:00:18,533 --> 00:00:19,367
+Pakai informasi itu
+
+19
+00:00:19,367 --> 00:00:20,433
+untuk menyusun draf.
+
+20
+00:00:20,533 --> 00:00:21,333
+Tapi stoknya belum
+
+21
+00:00:21,333 --> 00:00:22,033
+tercatat.
+
+22
+00:00:22,400 --> 00:00:23,267
+Jangan ditebak.
+
+23
+00:00:23,700 --> 00:00:24,733
+Tandai perlu dicek,
+
+24
+00:00:24,867 --> 00:00:25,533
+dan jangan mengirim
+
+25
+00:00:25,533 --> 00:00:26,733
+jawaban stok otomatis.
+
+26
+00:00:27,267 --> 00:00:28,300
+Kamu periksa drafnya,
+
+27
+00:00:28,300 --> 00:00:29,667
+pastikan informasinya benar,
+
+28
+00:00:29,667 --> 00:00:30,433
+baru kirim.
+
+29
+00:00:30,567 --> 00:00:31,633
+Supaya berjalan otomatis,
+
+30
+00:00:31,633 --> 00:00:32,667
+aplikasi yang dipakai
+
+31
+00:00:32,700 --> 00:00:33,567
+perlu dihubungkan dan
+
+32
+00:00:33,567 --> 00:00:34,433
+diuji dulu.
+
+33
+00:00:34,867 --> 00:00:35,733
+Simpan pola ini:
+
+34
+00:00:35,833 --> 00:00:36,800
+pesan masuk, ambil
+
+35
+00:00:36,800 --> 00:00:38,100
+informasi, buat draf,
+
+36
+00:00:38,133 --> 00:00:38,867
+lalu periksa.
+
+37
+00:00:39,133 --> 00:00:39,700
+Mulai dari satu
+
+38
+00:00:39,700 --> 00:00:40,933
+pekerjaan berulang dulu.

@@ -1,0 +1,10 @@
+Tiap hari copy-paste tugas yang sama ke AI?
+
+Coba gambar alurnya dulu: pesan masuk → ambil informasi → buat draf → periksa.
+
+Di contoh ini, jam buka tersedia, tapi stok belum tercatat. Yang kosong jangan ditebak; masuk pemeriksaan dulu. Alur otomatis juga tetap perlu aplikasi yang terhubung dan pengujian.
+
+Simpan polanya. Pilih satu pekerjaan yang sering berulang, lalu isi sumber informasi dan siapa yang mengecek hasilnya.
+
+Voice: ElevenLabs — https://elevenlabs.io/
+#BelajarAI #WorkflowAI #Produktivitas
